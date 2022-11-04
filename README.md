@@ -1,6 +1,6 @@
 Hi, I'm **Frank Ma**.
 
-I am learning database and strongly believe cloud-native databases are the future.
+I focus on sql query engine and strongly believe cloud-native databases are the future.
 
 - Currently working as a Data Engineer at ThoughtWorks and previously held DevOps(AWS) and Backend Developer(Java) roles.
 - Focusing on database query engine.

@@ -9,8 +9,8 @@ I focus on sql query engine and strongly believe cloud-native databases are the 
 
 The following are my projects for fun:
 
+- [sqlrs](https://github.com/Fedomn/sqlrs): sqlrs is an in-process sql query engine building from scratch
 - [db-knowledge](https://github.com/Fedomn/db-knowledge): database papers and repos collection
-- [sql-query-engine-rs](https://github.com/Fedomn/sql-query-engine-rs): Take advantage of Rust to build sql query engine from scratch
 - [how-query-engine-work](https://github.com/Fedomn/how-query-engine-work): How query engine work golang port for learning purpose
 - [tx-coordinator](https://github.com/Fedomn/tx-coordinator): Transaction Coordinator for SQL execution in different database
 - [6.824](https://github.com/Fedomn/6.824): My 6.824 Spring 2021 Labs Solution

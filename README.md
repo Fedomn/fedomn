@@ -2,8 +2,6 @@ Hi, I'm **Frank Ma**.
 
 I focus on sql query engine and strongly believe cloud-native databases are the future.
 
-- Currently working as a Data Engineer at ThoughtWorks and previously held DevOps(AWS) and Backend Developer(Java) roles.
-- Focusing on database query engine.
 - Open to full-time database query engine job opportunities.
 - Reach me at [Email](mailto:fedomn.ma@gmail.com), [Blog(in chinese)](https://frankma.me) and [Zhihu](https://www.zhihu.com/people/fedomn).
 

@@ -1,8 +1,5 @@
 Hi, I'm **Frank Ma**.
 
-I focus on sql query engine and strongly believe cloud-native databases are the future.
-
-- Open to full-time database job opportunities.
 - Reach me at [Email](mailto:fedomn.ma@gmail.com), [Blog(in chinese)](https://frankma.me) and [Zhihu](https://www.zhihu.com/people/fedomn).
 
 The following are my projects for fun:
